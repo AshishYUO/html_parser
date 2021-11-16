@@ -8,6 +8,7 @@ Implementation of HTML parser with C++. Note that this is made as a fun project 
 - After installation, just run the command
 
 ```
+cmake CMakeLists.txt
 make
 ```
 
